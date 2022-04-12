@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <div class="products" id="changePic">
-        <img src="../assets/Blackout.jpg" alt="Fierce" >
+        <img src="../assets/rubber.jpg" alt="Fierce" >
     </div>
     <div>
       <button @click="changeFace">A Secret Button</button>
